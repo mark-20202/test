@@ -6,10 +6,11 @@
  ************************************************************************/
 
 #include<iostream>
+#include <cstdio>
 using namespace std;
 
 int main () {
 
-
+    printf("\u9ece\u4eea\n");
     return 0;
 }
