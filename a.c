@@ -7,3 +7,12 @@
 
 #include<stdio.h>
 
+
+int main() {
+    char a = '1';
+    int b = a - '0';
+    printf("%d\n", a);
+    printf("%d\n", b);
+    
+    return 0;
+}
